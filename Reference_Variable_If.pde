@@ -3,7 +3,7 @@ float x=200;
 float speed =10;
 
 void setup(){
-  size(400,400);
+  size(600,600);
 }
 
 void draw(){
@@ -11,7 +11,7 @@ void draw(){
   fill(255,0,0);
   ellipse(x,200,50,50);
   x=x +speed;
-  if (x > 400){
+  if (x > 600){
     speed= -10;
   }
   if (x < 0){
