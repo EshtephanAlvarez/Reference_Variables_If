@@ -3,7 +3,7 @@ float x=200;
 float speed =10;
 
 void setup(){
-  size(600,600);
+  size(400,400);
 }
 
 void draw(){
