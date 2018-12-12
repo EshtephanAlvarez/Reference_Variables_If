@@ -1,4 +1,3 @@
-// add your Reference_Variable_If code here
 float x=200;
 float speed =10;
 
@@ -17,4 +16,3 @@ void draw(){
   if (x < 0){
     speed= 10;
   }
-}
